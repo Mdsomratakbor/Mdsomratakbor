@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mdsomratakbor
-- 👀 I’m interested in P
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new Technologies.
+- 🌱 I’m currently learning IOT.
+- 💞️ I’m looking to collaborate on a IOT cummunity.
+- 📫 How to reach me LinkedIn 
 
 <!---
 Mdsomratakbor/Mdsomratakbor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
