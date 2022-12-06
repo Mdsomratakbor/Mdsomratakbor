@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mdsomratakbor
 - 👀 I’m interested in learning new Technologies.
 - 🌱 I’m currently learning IOT.
-- 💞️ I’m looking to collaborate on a IOT cummunity.
+- 💞️ I’m looking to collaborate on a IOT community.
 - 📫 How to reach me LinkedIn 
 
 <!---
