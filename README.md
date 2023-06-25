@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mdsomratakbor
-- 👀 I’m interested in learning new Technologies.
-- 🌱 I’m currently learning Unit Testing in Angular application.
-- 💞️ I’m looking to collaborate on a IOT community.
+- I'm [Md Somrat Akbor](https://www.linkedin.com/in/md-somrat-akbor-40868320b/).
+- 👀 I'm interested in various technologies and always eager to expand my knowledge.
+- 🌱 Currently, I'm focused on learning machine learning algorithms and their practical implementations.
+- 💞️ I'm actively seeking collaborations within the IoT community to work on exciting projects and exchange ideas.
 - 📫 How to reach me LinkedIn : https://www.linkedin.com/in/md-somrat-akbor-40868320b/
 
 <!---
